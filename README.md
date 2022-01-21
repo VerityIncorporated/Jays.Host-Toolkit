@@ -1,14 +1,16 @@
 # Jays.Host-Toolkit
 https://Jays.Host ToolKit
 
-Exploits ->
-Crasher Pages (Patched) (He like... deleted the page... as a fix...)
-Crasher Plans (Patched) (He like... deleted the page... as a fix...)
-Crasher Method 3
-Crasher Method 4
-Crasher Method 5 (Patched) (He like... deleted the page... as a fix...)
+##Exploits ->
+-Crasher Pages (Patched) (He like... deleted the page... as a fix...)
+-Crasher Plans (Patched) (He like... deleted the page... as a fix...)
+-Crasher Method 3
+-Crasher Method 4
+-Crasher Method 5 (Patched) (He like... deleted the page... as a fix...)
 
-View Bot for your bios :)
+##Other
+
+-View Bot for your bios :)
 
 GUI:
 
