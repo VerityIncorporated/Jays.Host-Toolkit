@@ -10,8 +10,7 @@ https://Jays.Host ToolKit
 
 ## Other
 
--View Bot for your bios :)
+- View Bot for your bios :)
 
 GUI:
-
 ![Jays.Host ToolKit](https://cdn.e-z.host/e-zimagehosting/73b83a6e-5101-4059-9426-8abb720d5508/14ded90c.png)
