@@ -1,0 +1,19 @@
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\bin\Debug\net5.0\Jays.Host Toolkit.exe
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\bin\Debug\net5.0\Jays.Host Toolkit.deps.json
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\bin\Debug\net5.0\Jays.Host Toolkit.runtimeconfig.json
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\bin\Debug\net5.0\Jays.Host Toolkit.runtimeconfig.dev.json
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\bin\Debug\net5.0\Jays.Host Toolkit.dll
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\bin\Debug\net5.0\ref\Jays.Host Toolkit.dll
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\bin\Debug\net5.0\Jays.Host Toolkit.pdb
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\obj\Debug\net5.0\Jays.Host Toolkit.csproj.AssemblyReference.cache
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\obj\Debug\net5.0\Jays.Host Toolkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\obj\Debug\net5.0\Jays.Host Toolkit.AssemblyInfoInputs.cache
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\obj\Debug\net5.0\Jays.Host Toolkit.AssemblyInfo.cs
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\obj\Debug\net5.0\Jays.Host Toolkit.csproj.CoreCompileInputs.cache
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\obj\Debug\net5.0\Jays.Host Toolkit.dll
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\obj\Debug\net5.0\ref\Jays.Host Toolkit.dll
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\obj\Debug\net5.0\Jays.Host Toolkit.pdb
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\obj\Debug\net5.0\Jays.Host Toolkit.genruntimeconfig.cache
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\bin\Debug\net5.0\Colorful.Console.dll
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\obj\Debug\net5.0\Jays.Host Toolkit.csproj.CopyComplete
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\bin\Debug\net5.0\Newtonsoft.Json.dll

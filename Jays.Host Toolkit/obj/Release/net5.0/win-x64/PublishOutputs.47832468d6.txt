@@ -1,0 +1,2 @@
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\bin\Release\net5.0\publish\Jays.Host Toolkit.pdb
+C:\Users\Verity\RiderProjects\Jays.Host Toolkit\Jays.Host Toolkit\bin\Release\net5.0\publish\Jays.Host Toolkit.exe
