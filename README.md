@@ -1,6 +1,8 @@
 # Jays.Host-Toolkit
 https://Jays.Host ToolKit
 
+- I have no idea what works, I made this and at the time all the things worked and had existed on his site since it had opened. It shouldn't be this easy Jay....
+
 ## Exploits
 - Crasher Pages (Patched) (He like... deleted the page... as a fix...)
 - Crasher Plans (Patched) (He like... deleted the page... as a fix...)
