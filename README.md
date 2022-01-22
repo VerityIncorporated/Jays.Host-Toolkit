@@ -4,7 +4,7 @@ https://Jays.Host ToolKit
 ## Exploits
 - Crasher Pages (Patched) (He like... deleted the page... as a fix...)
 - Crasher Plans (Patched) (He like... deleted the page... as a fix...)
-- Crasher Method 3
+- Crasher Method 3 
 - Crasher Method 4
 - Crasher Method 5 (Patched) (He like... deleted the page... as a fix...)
 
