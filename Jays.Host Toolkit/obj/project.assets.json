@@ -2491,11 +2491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Verity\\RiderProjects\\Jays.Host Toolkit\\Jays.Host Toolkit\\Jays.Host Toolkit.csproj",
+      "projectUniqueName": "C:\\Users\\Verity\\Documents\\GitHub\\Jays.Host-Toolkit\\Jays.Host Toolkit\\Jays.Host Toolkit.csproj",
       "projectName": "Jays.Host Toolkit",
-      "projectPath": "C:\\Users\\Verity\\RiderProjects\\Jays.Host Toolkit\\Jays.Host Toolkit\\Jays.Host Toolkit.csproj",
+      "projectPath": "C:\\Users\\Verity\\Documents\\GitHub\\Jays.Host-Toolkit\\Jays.Host Toolkit\\Jays.Host Toolkit.csproj",
       "packagesPath": "C:\\Users\\Verity\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Verity\\RiderProjects\\Jays.Host Toolkit\\Jays.Host Toolkit\\obj\\",
+      "outputPath": "C:\\Users\\Verity\\Documents\\GitHub\\Jays.Host-Toolkit\\Jays.Host Toolkit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"

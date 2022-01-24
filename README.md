@@ -12,6 +12,7 @@ https://Jays.Host ToolKit
 - Crasher Method 3 
 - Crasher Method 4
 - Crasher Method 5 (Patched) (He like... deleted the page... as a fix...)
+- User Dumper, gets all public info on all users on Jays.Host.
 
 ## Other
 

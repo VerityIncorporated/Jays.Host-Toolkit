@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ets3AiOIC7LJ3KOykhQhWb+MpWnnMgOAlTkNV12/T+0FxQ/QhZfVW4ZUaK7Up2HoQb8mQ77mFRAfqYnr2E8OFA==",
+  "dgSpecHash": "r4NpuMaO68k2d1nWm7YzxEHzl7XhhsE4hKOZAfxY7g9OEjznLiUnec0apA0Ahgmvfdf2TfV3J/AzlF4zaOZ3Ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Verity\\RiderProjects\\Jays.Host Toolkit\\Jays.Host Toolkit\\Jays.Host Toolkit.csproj",
+  "projectFilePath": "C:\\Users\\Verity\\Documents\\GitHub\\Jays.Host-Toolkit\\Jays.Host Toolkit\\Jays.Host Toolkit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Verity\\.nuget\\packages\\colorful.console\\1.2.15\\colorful.console.1.2.15.nupkg.sha512",
     "C:\\Users\\Verity\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

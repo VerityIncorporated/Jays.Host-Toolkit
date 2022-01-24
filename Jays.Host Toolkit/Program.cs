@@ -10,7 +10,7 @@ namespace Jays.Host_Toolkit
     {
         private static void Main()
         {
-            Title = "Jays.Host Toolkit | Made by Verity | Version 1.0, Build 01/20/22 | Current Tool: Main Menu ";
+            Title = "Jays.Host Toolkit | Made by Verity | Version 2.0, Build 01/24/22 | Current Tool: Main Menu ";
             Utils.LoadingSequence();
             ToolkitOptions();
         }
@@ -23,7 +23,8 @@ namespace Jays.Host_Toolkit
             WriteLine(" [3] Crasher Method: Method 3", Color.DodgerBlue);
             WriteLine(" [4] Crasher Method: Method 4", Color.DodgerBlue);
             WriteLine(" [5] Crasher Method: Method 5", Color.DodgerBlue);
-            WriteLine(" [6] Bio View Bot \n", Color.DodgerBlue);
+            WriteLine(" [6] User Dumper", Color.DodgerBlue);
+            WriteLine(" [7] Bio View Bot \n", Color.DodgerBlue);
             Write(" --> ", Color.DarkSlateBlue);
             var option = ReadLine();
             switch (option)
@@ -44,6 +45,9 @@ namespace Jays.Host_Toolkit
                     BiosCrasher.Start();
                     break;
                 case "6":
+                    UserDumper.Start();
+                    break;
+                case "7":
                     ViewBot.Start();
                     break;
             }

